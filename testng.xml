@@ -1,0 +1,8 @@
+<suite name="Yieldstreet_Challenge" parallel="classes" thread-count="2">
+    <test name="Yieldstreet_Challenge_Test">
+        <classes>
+            <class name="com.yieldstreet.qa.api.ApiTest"/>
+            <class name="com.yieldstreet.qa.ui.UiTest"/>
+        </classes>
+    </test>
+</suite>
